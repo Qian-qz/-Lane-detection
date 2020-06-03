@@ -1,0 +1,3 @@
+processed 126 images
+Detected Failure: 0
+Search Failure: 0
